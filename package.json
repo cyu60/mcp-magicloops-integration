@@ -1,0 +1,24 @@
+{
+  "name": "calculator-mcp",
+  "version": "1.0.0",
+  "main": "calculator-server.ts",
+  "type": "module",
+  "scripts": {
+    "start": "tsx calculator-server.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "An MCP server with calculator tools",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
