@@ -1,0 +1,1 @@
+ # mcp-magicloops-integration
